@@ -1,1 +1,1 @@
-# Sparse Grid Environment for AI Tasks
+# Sparse Reward Grid: An AI(/RL) puzzle
